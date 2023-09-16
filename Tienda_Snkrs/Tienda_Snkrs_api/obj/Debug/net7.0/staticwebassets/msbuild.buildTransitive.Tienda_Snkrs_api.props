@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tienda_Snkrs_api.props" />
+</Project>
